@@ -20,12 +20,11 @@ goTaskManager [command] [arguments]
 
 ### Commands
 
-| Command  | Description             | Example                      |
-| -------- | ----------------------- | ---------------------------- |
-| `add`    | Add a new task.         | `./task add "Buy groceries"` |
-| `list`   | List all tasks.         | `./task list`                |
-| `do`     | Mark task as completed. | `./task do 1`                |
-| `delete` | Delete a task.          | `./task delete 1`            |
+| Command | Description             | Example                             |
+| ------- | ----------------------- | ----------------------------------- |
+| `add`   | Add a new task.         | `goTaskManager add "Buy groceries"` |
+| `list`  | List all tasks.         | `goTaskManager list`                |
+| `do`    | Mark task as completed. | `goTaskManager do 1`                |
 
 ### Examples
 
